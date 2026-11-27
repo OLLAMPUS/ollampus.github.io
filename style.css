@@ -27,6 +27,8 @@ h2 { font-size: 21px; margin: 28px 0 6px; color: var(--accent); }
 p, li { margin: 6px 0; }
 ul { padding-left: 22px; }
 a { color: #b9553c; }
+h1.logo { margin: 0 0 4px -10px; line-height: 0; }
+h1.logo img { height: 64px; width: auto; }
 .sub { color: var(--sub); margin-top: 0; }
 .app { display: flex; gap: 16px; align-items: center; margin: 20px 0; }
 .app img { width: 88px; height: 88px; border-radius: 20px; border: 2px solid var(--edge); }
