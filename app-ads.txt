@@ -1,0 +1,2 @@
+# Authorized ad sellers for Ollampus apps (https://iabtechlab.com/ads-txt/)
+google.com, pub-9448892819068658, DIRECT, f08c47fec0942fa0
